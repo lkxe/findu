@@ -1,0 +1,5 @@
+build
+node_modules
+frontend/dist
+frontend/bun.lockb
+languages

@@ -1,0 +1,12 @@
+{
+  "language": "German",
+  "theme": "Catppuccin",
+  "exclusions": [
+    "/boot"
+  ],
+  "scanFileTypes": null,
+  "minimumFileSize": 0,
+  "ignoreSystemFolders": false,
+  "comparisonAlgorithm": "",
+  "confirmBeforeDeleting": false
+}
